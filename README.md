@@ -12,7 +12,7 @@
   <a href="https://github.com/marcosdovilio">
     <img src="https://img.shields.io/badge/GitHub-marcosdovilio-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI/">
+  <a href="www.linkedin.com/in/marcos-dovilio-tessaro-6990411a6">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:marcosdovilio@gmail.com">
